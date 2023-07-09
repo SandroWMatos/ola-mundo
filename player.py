@@ -1,0 +1,1 @@
+print('Jogador com 3 vidas.')
